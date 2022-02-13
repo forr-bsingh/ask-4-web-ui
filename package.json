@@ -28,7 +28,7 @@
     "lint": "eslint --format node_modules/eslint-friendly-formatter src/lex-web-ui-loader"
   },
   "dependencies": {
-    "ajv": "^6.12.2",
+    "ajv": "^6.12.3",
     "amazon-cognito-auth-js": "^1.2.4",
     "babel-polyfill": "^6.26.0",
     "jsonwebtoken": "^8.3.0",
